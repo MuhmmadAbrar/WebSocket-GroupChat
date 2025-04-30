@@ -7,6 +7,6 @@ This server allows multiple clients to:
 - Broadcast messages to all other connected clients.
 - View the list of currently active clients.
 
-  #Implementation Demo
+# Implementation Demo
 https://github.com/user-attachments/assets/5392d000-e5a2-447e-aa1b-b862b354888f
 
